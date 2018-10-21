@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "videojuegoPOO", "videojuegoPOO\videojuegoPOO\videojuegoPOO.csproj", "{09BA7096-C691-49C8-9D3A-5A449D57CF63}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "videojuegoPOOContent", "videojuegoPOO\videojuegoPOOContent\videojuegoPOOContent.contentproj", "{A0B0FF82-8D7C-467D-AF78-B4A609972ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09BA7096-C691-49C8-9D3A-5A449D57CF63}.Debug|x86.ActiveCfg = Debug|x86
+		{09BA7096-C691-49C8-9D3A-5A449D57CF63}.Debug|x86.Build.0 = Debug|x86
+		{09BA7096-C691-49C8-9D3A-5A449D57CF63}.Release|x86.ActiveCfg = Release|x86
+		{09BA7096-C691-49C8-9D3A-5A449D57CF63}.Release|x86.Build.0 = Release|x86
+		{A0B0FF82-8D7C-467D-AF78-B4A609972ADE}.Debug|x86.ActiveCfg = Debug|x86
+		{A0B0FF82-8D7C-467D-AF78-B4A609972ADE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
